@@ -1,3 +1,12 @@
+NOTES:
+
+    The "Google Developers Console" is where you set up your API key.  Other than a
+    regular Google ID, you don't need much to get started.  If you're feeling paranoid,
+    you can lock that API key down to only hit certain services.
+
+    The googleapiclient.discovery module comes from Google's own Github repository, so
+    you can search that on the web for cloning and installation.
+
 USAGE:
 
     url_metadata_query.py file-name
